@@ -83,7 +83,7 @@ h1{
   height: 18px;
   background-color: #3498db;     /* ← CHANGE DOT COLOR HERE */
   border-radius: 50%;
-  animation: bounce 2.0s infinite ease-in-out both;
+  animation: bounce 3.0s infinite ease-in-out both;
 }
 
 .dot:nth-child(1) { animation-delay: -0.32s; }
