@@ -99,5 +99,5 @@ h1{
 /* Hide when page loads */
 .loaded #page-loader {
   opacity: 0;
-  visibility: hidden;
+  /* visibility: hidden; */
 }
