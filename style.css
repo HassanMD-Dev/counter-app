@@ -2,12 +2,12 @@ body{
     font-family: Arial, sans-serif;
     height: 100vh;
     margin: 0;
-    background-color: #88cf17;
+    background-color: #2E4053;
     text-align: center; /* centers h1 */
 }
 
 h1{
-    color: #fff;
+    color: #FFFFFF;
     margin-top: 5px;
 }
 
