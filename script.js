@@ -8,20 +8,15 @@ let reset = document.querySelector("#reset");
 plusBtn.addEventListener("click", () => {
   count++;
   output.innerText = count;
-  animate(plusBtn, { scale: 1.2 }, { duration: 0.2 });
-  animate(output, { scale: 1.1 }, { duration: 0.2 });
 });
 minusBtn.addEventListener("click", () => {
   count--;
   output.innerText = count;
-  animate(minusBtn, { scale: 0.8 }, { duration: 0.2 });
-  animate(output, { scale: 0.9 }, { duration: 0.2 });
 });
 
 reset.addEventListener("click", () => {
   count = 0;
   output.innerText = count;
-  animate(output, { scale: 1.5 }, { duration: 0.5 });
 });
 window.addEventListener("load", function() {
       document.body.classList.add("loaded");
