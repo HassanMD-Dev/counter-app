@@ -1,4 +1,4 @@
-import { animate } from "motion";
+//import { animate } from "motion";
 let count = 0;
 let plusBtn = document.querySelector(".plus");
 let minusBtn = document.querySelector(".minus");
