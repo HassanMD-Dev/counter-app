@@ -11,7 +11,7 @@ A simple **Counter App** built using **HTML, CSS, and JavaScript**. This app all
 
 ## Demo
 
-You can add a live demo link here if hosted (optional):
+You can add a live demo link here if hosted:
 [Live Demo](https://counter-app-md.vercel.app)
 
 
